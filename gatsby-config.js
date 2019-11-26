@@ -50,6 +50,19 @@ const plugins = [
       anonymize: false,
     },
   },
+  // PWA related configuration.
+  {
+    resolve: `gatsby-plugin-manifest`,
+    options: {
+      name: `Algoritmid ja andmestruktuurid`,
+      short_name: `ICD0001`,
+      start_url: `/`,
+      background_color: `#1C5D99`,
+      theme_color: `#1C5D99`,
+      display: `standalone`,
+    },
+  },
+  `gatsby-plugin-offline`
 ];
 if (config.header.search && config.header.search.enabled && config.header.search.algoliaAppId && config.header.search.algoliaAdminKey) {
   plugins.push({
