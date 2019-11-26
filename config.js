@@ -37,7 +37,7 @@ const config = {
 		"title": "Algoritmid ja andmestruktuurid|ICD0001",
 		"description": "KordamisKüsimused",
 		"ogImage": null,
-		"docsLocation": "/", 
+		"docsLocation": "https://github.com/tristankrass/ICD0001/tree/master/content", 
 		"favicon": "/" 
 	},
 };
