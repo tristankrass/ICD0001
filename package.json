@@ -51,7 +51,7 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "start": "gatsby develop",
+    "start": "gatsby develop --port 8080",
     "build": "gatsby build --prefix-paths"
   },
   "devDependencies": {

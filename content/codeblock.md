@@ -1,7 +1,7 @@
 ---
-title: "Syntax Highlighting"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "Algoritmi omadused."
+metaTitle: "Algoritmide asümptootiline analüüs: relatsioonid 'suur-O', 'väike-o', teeta, 'suur-oomega' ja 'väike-oomega'; nende definitsioonid ning  põhiomadused"
+metaDescription: "Algoritmi omadused. Algoritmide asümptootiline analüüs"
 ---
 
 The following is a code block with JavaScript language syntax highlighting.
