@@ -54,7 +54,8 @@
   "main": "n/a",
   "scripts": {
     "start": "gatsby develop --port 8080",
-    "build": "gatsby build --prefix-paths"
+    "build": "gatsby build --prefix-paths",
+    "clean": "gatsby clean"
   },
   "devDependencies": {
     "gatsby-plugin-remove-trailing-slashes": "^2.1.2",
